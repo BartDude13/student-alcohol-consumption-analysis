@@ -74,6 +74,13 @@ Due to account limitations, the dashboard cannot be shared publicly; however, a 
 
 ---
 
+## 📽 Presentation
+A project presentation summarizing the analysis, methodology, and key insights.
+
+📄 [View Presentation (PDF)](presentation/Student_Alcohol_Consumption_Presentation.pdf)
+
+---
+
 ## Repository Structure
 ├── data/
 
