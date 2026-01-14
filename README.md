@@ -39,9 +39,7 @@ The following steps were performed during data preparation:
 - Created a **Subject** column to identify the course (Math or Portuguese)  
 - Checked for missing values (no null values found)  
 - Converted boolean variables (`yes/no`) into numeric format (1/0)  
-- Created an **Average Alcohol Consumption** variable:  
-
-
+- Created an **Average Alcohol Consumption** variable
 - Categorized alcohol consumption into **Low, Medium, and High** levels  
 
 ---
