@@ -70,14 +70,14 @@ The analysis focused on:
 The Power BI dashboard was developed locally.  
 Due to account limitations, the dashboard cannot be shared publicly; however, a visual preview is provided below.
 
-![Dashboard Preview](dashboard/dashboard_overview.png)
+![Dashboard Preview](dashboard/Dashboard_overview.png)
 
 ---
 
-## 📽 Presentation
+## Presentation
 A project presentation summarizing the analysis, methodology, and key insights.
 
-📄 [View Presentation (PDF)](presentation/Student_Alcohol_Consumption_Presentation.pdf)
+📄 [View Presentation (PDF)](presentation/Projeto_Final_Booze.pdf)
 
 ---
 
